@@ -1,3 +1,2 @@
 This is my first git file.
 New line added after first commit
-thir line inserted as a part of third commit
